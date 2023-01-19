@@ -1,6 +1,6 @@
 # OOP-Javascript
 
-[Dashboard](https://revantoma.github.io/dashboard/)
+[Card Game & Color generator](https://revantoma.github.io/OOP-JS/)
 
 # Description
 
